@@ -18,3 +18,6 @@ cd vioserial
 call buildall.bat
 cd ..
 
+cd vioscsi
+call buildall.bat
+cd ..
